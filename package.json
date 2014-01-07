@@ -1,0 +1,13 @@
+{
+ "name"     : "spa",
+  "version" : "0.0.1",
+  "private" : true,
+  "dependencies" : {
+    "express"     : "3.x.x",
+    "locomotive"  : "0.4.x",
+    "hamljs"      : "0.6.x"
+  },
+  "scripts" : {
+    "start" : "lcm server"
+  }
+}
